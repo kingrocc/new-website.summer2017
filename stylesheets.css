@@ -1,0 +1,11 @@
+h1{text-align: center; color: pink;}
+ol{text-align: left; color: plum;}
+ul{text-align: left; color: plum;}
+p{text-align: center; color: pink;}
+html { 
+  background: url(download.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
